@@ -2,4 +2,4 @@
 begining with github
 
 Hi guy !
-i like sport, music and programming with python C++
+i like sport, music and programming with python and C++
